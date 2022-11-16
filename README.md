@@ -22,7 +22,7 @@ https://www.bilibili.com/video/BV1Xg411s7rW/
 
 - [x] 序列化（Pydantic）
 
-- [x] [MySQL主从搭建](mysql/README.md)
+- [x] [Docker MySQL主从](mysql/README.md)
 
 
 
